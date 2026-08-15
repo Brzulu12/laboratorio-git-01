@@ -33,3 +33,18 @@ que más me mueve aunque es la que menos manejo real le he dado, las telecomunic
 me interesan las redes de datos, los protocolos de comunicación y la infraestructura que 
 permite que los sistemas hablen entre sí. La telemática es el puente natural entre ese mundo y el
 del software, y es donde encuentro los problemas más interesantes.
+
+## Objetivos del Laboratorio 01
+
+Con esta práctica busco:
+
+- Entender la diferencia entre Git (el sistema de control de versiones que corre
+  en mi máquina) y GitHub (la plataforma en la nube que aloja los repositorios).
+- Dominar el flujo básico de trabajo: `add` → `commit` → `push`.
+- Manejar ramas para aislar cambios sin comprometer la versión estable del
+  proyecto.
+- Practicar el ciclo de colaboración mediante Pull Requests.
+- Leer e interpretar el historial de commits como la bitácora de un proyecto.
+
+Más allá del laboratorio, el control de versiones es una herramienta que aplica a
+cualquier área de la ingeniería.
